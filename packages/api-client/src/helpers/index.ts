@@ -1,6 +1,7 @@
 export * from './concatenateUrlAndPath'
 export * from './createPlaceholderRequest'
 export * from './findVariables'
+export * from './getRequestFromAuthentication'
 export * from './humanDiff'
 export * from './mapFromArray'
 export * from './normalizePath'
