@@ -1,5 +1,11 @@
 # @scalar/api-reference
 
+## 1.20.7
+
+### Patch Changes
+
+- 1e658b0: fix: rebuild schema property details to truncate long strings
+
 ## 1.20.6
 
 ### Patch Changes
